@@ -1,5 +1,6 @@
 /*
  * Create an array to hold all graded activities
+ * TODO: Use polymorphism instead of 2D array
  */
 package coursegrades;
 
